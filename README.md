@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Full-Stack Developer who enjoys building things for the web and learning how systems work behind the scenes. I like working across both frontend and backend — from creating APIs and handling databases to building clean, interactive user interfaces.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/geraldpratama1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerald-pratama-111205252) 
